@@ -8,5 +8,5 @@ composer require d_kopasov/library
 ## Использование 
 ```php
 $library = new Library();
-$library->isKitchenItem();
+$library->isKitchenItem(string $item);
 ```
