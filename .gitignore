@@ -1,0 +1,7 @@
+.idea
+php
+nginx
+vendor
+
+docker-compose.yaml
+composer.json

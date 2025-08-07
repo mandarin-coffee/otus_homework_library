@@ -1,0 +1,10 @@
+{
+    "name": "d_kopasov/library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "DKopasov\\Library\\": "src/"
+        }
+    },
+    "require": {}
+}
