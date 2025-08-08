@@ -6,5 +6,7 @@
             "DKopasov\\Library\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": "^8.2"
+    }
 }
